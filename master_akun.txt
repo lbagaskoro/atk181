@@ -1,0 +1,35 @@
+KCP CIKAMPEK
+USER : kcp.cikampek
+PASS : 214cikampek
+
+KCP KLARI
+USER : kcp.klari
+PASS : 453klari
+
+KCP KONDANG JAYA
+USER : kcp.kondang
+PASS : 1082kondang
+
+KCP JOHAR
+USER : kcp.johar
+PASS : 454johar
+
+KCP GRAND TARUMA
+USER : kcp.grandtaruma
+PASS : 1183grandtaruma
+
+KCP SURYACIPTA
+USER : kcp.suryacipta
+PASS : 452suryacipta
+
+SO
+user : SO
+pass : 181so
+
+BCLU
+user : bclu
+pass : 181bclu
+
+BCRU
+user : bcru
+pass : 181bcru

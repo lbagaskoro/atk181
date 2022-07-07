@@ -1,0 +1,8 @@
+    <?
+										 if (isset($row['ket'] == 0)){
+											 ?><a  href="setuju.php?id=<?=$row['id_permintaan'];?>">										 
+                                         <button id="coba"  class="btn btn-success" >Sudah disberikan ?</button></a>
+                                         <?
+										 }else{?>
+                                         <button id="coba"  class="btn btn-success" disabled="disabled" >Sudah disberikan ?</button></a>
+                                         <? } ?>
